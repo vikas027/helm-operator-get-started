@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: test
   values:
-    image: vikas027/podinfo:dev-goolxdjq
+    image: vikas027/podinfo:dev-wgzgtktt
     replicaCount: 1
     hpa:
       enabled: false
